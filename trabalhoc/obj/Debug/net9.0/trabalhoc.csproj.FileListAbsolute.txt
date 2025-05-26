@@ -1,0 +1,21 @@
+C:\Users\bruno\trabalhoc\bin\Debug\net9.0\trabalhoc.exe
+C:\Users\bruno\trabalhoc\bin\Debug\net9.0\trabalhoc.deps.json
+C:\Users\bruno\trabalhoc\bin\Debug\net9.0\trabalhoc.runtimeconfig.json
+C:\Users\bruno\trabalhoc\bin\Debug\net9.0\trabalhoc.dll
+C:\Users\bruno\trabalhoc\bin\Debug\net9.0\trabalhoc.pdb
+C:\Users\bruno\trabalhoc\obj\Debug\net9.0\trabalhoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\trabalhoc\obj\Debug\net9.0\trabalhoc.AssemblyInfoInputs.cache
+C:\Users\bruno\trabalhoc\obj\Debug\net9.0\trabalhoc.AssemblyInfo.cs
+C:\Users\bruno\trabalhoc\obj\Debug\net9.0\trabalhoc.csproj.CoreCompileInputs.cache
+C:\Users\bruno\trabalhoc\obj\Debug\net9.0\trabalhoc.dll
+C:\Users\bruno\trabalhoc\obj\Debug\net9.0\refint\trabalhoc.dll
+C:\Users\bruno\trabalhoc\obj\Debug\net9.0\trabalhoc.pdb
+C:\Users\bruno\trabalhoc\obj\Debug\net9.0\trabalhoc.genruntimeconfig.cache
+C:\Users\bruno\trabalhoc\obj\Debug\net9.0\ref\trabalhoc.dll
+c:\Users\bruno\OneDrive\Área de Trabalho\trabalhoc\obj\Debug\net9.0\trabalhoc.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bruno\OneDrive\Área de Trabalho\trabalhoc\obj\Debug\net9.0\trabalhoc.AssemblyInfoInputs.cache
+c:\Users\bruno\OneDrive\Área de Trabalho\trabalhoc\obj\Debug\net9.0\trabalhoc.AssemblyInfo.cs
+c:\Users\bruno\OneDrive\Área de Trabalho\trabalhoc\obj\Debug\net9.0\trabalhoc.csproj.CoreCompileInputs.cache
+c:\Users\bruno\OneDrive\Área de Trabalho\trabalhoc\obj\Debug\net9.0\trabalhoc.dll
+c:\Users\bruno\OneDrive\Área de Trabalho\trabalhoc\obj\Debug\net9.0\refint\trabalhoc.dll
+c:\Users\bruno\OneDrive\Área de Trabalho\trabalhoc\obj\Debug\net9.0\trabalhoc.pdb
